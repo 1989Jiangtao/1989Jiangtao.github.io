@@ -41,10 +41,6 @@ aside { width: 27%; background: url(../images/ibodybg.png) -170px -147px no-repe
     font-size: 0.75em;
     color: #333;
     line-height: 1.5em;
-	position:fixed;
-	left:0px;
-	top:0px;
-	width:100%;
 }
 .toolbar-skin-black {
     height: 40px;
